@@ -28,5 +28,6 @@ A simple Streamlit web app that uses a fine-tuned BART model to summarize long p
 
 # Output Sample
 
+![Output Image](output.png)
 
 
